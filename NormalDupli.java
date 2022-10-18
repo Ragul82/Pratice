@@ -22,6 +22,7 @@ public class NormalDupli {
 		  
 		//System.out.println(nums);
 		System.out.println(d);
+		System.out.println("Ragul")
 	}
 
 }
